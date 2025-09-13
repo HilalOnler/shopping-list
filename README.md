@@ -12,10 +12,8 @@ Kullanıcıların alışveriş listelerini **oluşturup yönetebileceği** sade 
 
 ## 📷 Önizleme
 
-> `assets/` klasörüne ekran görüntüsü veya GIF ekleyin ve aşağıdaki yolu güncelleyin.
-
 <p align="center">
-  <img src="assets/preview.png" alt="Shopping List Preview" width="800">
+  <img src="assets/preview.png" alt="Shopping List Preview" width="300">
 </p>
 
 ---
