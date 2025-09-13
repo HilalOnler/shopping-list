@@ -13,7 +13,7 @@ Kullanıcıların alışveriş listelerini **oluşturup yönetebileceği** sade 
 ## 📷 Önizleme
 
 <p align="center">
-  <img src="assets/preview.png" alt="Shopping List Preview" width="300">
+  <img src="assets/preview_v2.png" alt="Shopping List Preview" width="300">
 </p>
 
 ---
